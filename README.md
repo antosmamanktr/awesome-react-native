@@ -780,6 +780,10 @@ Components and native modules.
 * [react-native-yynavigator ★1](https://github.com/yiyangest/react-native-yynavigator) - custom navigation bar for react-native
 * [react-native-telegraph ★1](https://github.com/robertherber/react-native-telegraph) - In-app message orchestration supporting Snackbars, Banners and Dialogs
 
+* [react-native-dream-toast](https://github.com/antosmamanktr/react-native-dream-toast) - A beautiful, customizable, and lightweight toast notification system for React Native. 
+* [react-native-letter-flatlist](https://github.com/antosmamanktr/react-native-letter-flatlist) - AlphabetList is a customizable FlatList-based A–Z index list component for React Native.
+* [react-native-stonewall-grid](https://github.com/antosmamanktr/react-native-stonewall-grid) - StonewallGrid is a flexible and performant masonry-style layout component for React Native.
+
 
 #### Navigation/Routing Articles
 
